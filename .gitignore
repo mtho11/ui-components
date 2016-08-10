@@ -11,6 +11,7 @@ pids
 .lock-wscript
 
 
+coverage/
 dist/data/
 dist/assets/
 dist/docs/
